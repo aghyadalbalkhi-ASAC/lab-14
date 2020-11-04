@@ -1,11 +1,11 @@
 # lab-14
 
-Number and name of feature: ________________________________
+Number and name of feature: Database Setup & Database Migration
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete:30 min
 
-Start time: _____
+Start time: 2:30pm
 
-Finish time: _____
+Finish time:2:57pm
 
-Actual time needed to complete: _____
+Actual time needed to complete: 27 min
